@@ -1,8 +1,8 @@
 {
   "name": "NeonPackLite",
-  "version_number": "1.0.0",
+  "version_number": "2.0.0",
   "website_url": "https://github.com/NeonCarbide/Valheim-NeonPack-Lite",
-  "description": "The base mods required to join a world or server running NeonPack",
+  "description": "The base mods required to join a world or server running NeonPack 2.0.0",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.800",
     "Valdream-Data_Rate_Modifier-1.0.1",

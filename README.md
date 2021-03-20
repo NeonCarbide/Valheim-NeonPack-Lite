@@ -1,8 +1,8 @@
 # Valheim-NeonPack Lite
 
-The base mods required to join a world or server running [NeonPack 1.13.0][neonpack]
+The base mods required to join a world or server running [NeonPack 2.0.0][neonpack]
 
-I've included the configuration files for all the mods that have them in the [github for the main modpack][github-extras]
+I've included a list of all the config changes I've made in the [github for the main modpack][github-extras]
 
 I also use the following mods from NexusMods
 
@@ -10,7 +10,7 @@ _Required:_
 
 - [Better Trader 1.0.6][better-trader]
 - [Combat Evolved 0.4.0][combat-evolved]
-- [Cooking Skill 1.1.1][cooking-skill]
+- [Cooking Skill 1.1.2][cooking-skill]
 - [Crush Antlers 0.1.0][crush-antlers]
 - [Fish Food 1.0.0][fish-food]
 - [Fitness Skill 1.0.2][fitness-skill]
@@ -25,6 +25,17 @@ Simply add both files to the mod's .zip, then modify the manifest.json with the 
 You can then do a simple drag'n'drop installation in r2modmanager with the .zip
 
 ## Changelog
+
+```text
+Version 2.0.0
+
+# Configs are now included with modpack
+
+[NexusMods]
+
+* Updated Cooking Skill
+  - 1.1.1 -> 1.1.2
+```
 
 ```text
 Version 1.0.0
