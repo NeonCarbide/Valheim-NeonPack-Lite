@@ -1,0 +1,33 @@
+{
+  "name": "NeonPack Lite",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/NeonCarbide/Valheim-NeonPack-Lite",
+  "description": "The base mods required to join a world or server running NeonPack",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.800",
+    "Valdream-Data_Rate_Modifier-1.0.1",
+    "RandyKnapp-ImprovedDvergerCirclet-1.0.1",
+    "KaceCottam-TripleBronze-0.2.1",
+    "Merlyn42-FortifySkills-1.2.0",
+    "Xenofell-Skillful-0.3.0",
+    "chase000-UnfrightenTamedAnimals-0.1.0",
+    "purpledxd-LocateMerchant-1.0.1",
+    "robclancy-Bigger_Chests-1.0.0",
+    "Khairex-Useful_Trophies-1.1.0",
+    "Xenofell-BuildHelper-0.2.0",
+    "ceko-ValheimArmorstand-0.0.1",
+    "abearcodes-SimpleRecycling-0.0.13",
+    "mgway-PaddlePower-1.0.2",
+    "Rolo-Gizmo-1.0.0",
+    "RandyKnapp-Jam-1.0.2",
+    "1010101110-multiplayerboatdamage-0.0.1",
+    "ceko-ValheimBrawler-0.0.4",
+    "RandyKnapp-ExtendedItemDataFramework-1.0.0",
+    "RandyKnapp-EpicLoot-0.5.16",
+    "Smoothbrain-ComfortCalculationTweaks-1.2.2",
+    "pipakin-SkillInjector-1.1.1",
+    "pipakin-GatheringSkill-2.0.3",
+    "Rolo-ExploreTogether-1.3.0",
+    "Crystal-Pathfinder-1.0.0"
+  ]
+}
