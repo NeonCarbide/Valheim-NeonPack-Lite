@@ -23,11 +23,27 @@ Simply add both files to the mod's .zip, then modify the manifest.json with the 
 
 You can then do a simple drag'n'drop installation in r2modmanager with the .zip
 
-## Changelog
+## [Changelog][changelog]
+
+Rather than continue to make this README even longer, I've seperated the changelog into its own page for ease of use
+
+I will maintain a trimmed version of the full changelog within this README of only the most recent minor update and any subsequent patches
+
+### Recent Updates
+
+Version 2.1.1
 
 ```text
+[Thunderstore]
+
+  ~ Downgraded Epic Loot
+    - 0.6.0 -> 0.5.16
+    - Many features broken, mod dev working on fixes
+```
+
 Version 2.1.0
 
+```text
 [Thunderstore]
 
   + Added Creature Level and Loot Control 2.2.0
@@ -53,62 +69,7 @@ Version 2.1.0
     - 1.0.2 -> 1.0.3
 ```
 
-```text
-Version 2.0.0
-
-# Configs are now included with modpack
-
-[NexusMods]
-
-* Updated Cooking Skill
-  - 1.1.1 -> 1.1.2
-```
-
-```text
-Version 1.0.0
-
-# Initial release
-
-[Thunderstore]
-
-  + Added Bigger Chests 1.0.0
-  + Added Build Helper 0.2.0
-  + Added Comfort Calculation Tweaks 1.2.2
-  + Added Data Rate Modifier 1.0.1
-  + Added Epic Loot 0.5.16
-  + Added Explore Together 1.3.0
-  + Added Extended Item Data Framework 1.0.0
-  + Added Fortify Skills 1.2.0
-  + Added Gathering Skill 2.0.3
-  + Added Gizmo 1.0.0
-  + Added Improved Dverger Circlet 1.0.1
-  + Added Jam 1.0.2
-  + Added Locate Merchant 1.0.1
-  + Added Multiplayer Boat Damage 0.0.1
-  + Added Paddle Power 1.0.2
-  + Added Pathfinder 1.0.0
-  + Added Simple Recycling 0.0.13
-  + Added Skill Injector 1.1.1
-  + Added Skillful 0.3.0
-  + Added Triple Bronze 0.2.1
-  + Added Unfrighten Tamed Animals 0.1.0
-  + Added Useful Trophies 1.1.0
-  + Added Valheim Armorstand 0.0.1
-  + Added Valheim Brawler 0.0.4
-
-[NexusMods]
-
-  + Added Better Trader 1.0.6
-  + Added Combat Evolved 0.4.0
-  + Added Cooking Skill 1.1.1
-  + Added Crush Antlers 0.1.0
-  + Added Fish Food 1.0.0
-  + Added Fitness Skill 1.0.2
-  + Added Jotunn Lib 0.1.1
-  + Added Mod Config Enforcer 1.3.0
-  + Added Planting Plus 1.4.5
-```
-
+[changelog]: https://github.com/NeonCarbide/Valheim-NeonPack-Lite/blob/master/CHANGELOG.md
 [github-extras]: https://github.com/NeonCarbide/Valheim-NeonPack/tree/main/extras
 [neonpack]: https://valheim.thunderstore.io/package/NeonCarbide/NeonPack/
 
