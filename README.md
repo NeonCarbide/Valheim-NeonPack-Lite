@@ -1,6 +1,6 @@
 # Valheim-NeonPack Lite
 
-The base mods required to join a world or server running [NeonPack 2.0.0][neonpack]
+The base mods required to join a world or server running [NeonPack 2.1.0][neonpack]
 
 I've included a list of all the config changes I've made in the [github for the main modpack][github-extras]
 
@@ -12,9 +12,8 @@ _Required:_
 - [Combat Evolved 0.4.0][combat-evolved]
 - [Cooking Skill 1.1.2][cooking-skill]
 - [Crush Antlers 0.1.0][crush-antlers]
-- [Fish Food 1.0.0][fish-food]
-- [Fitness Skill 1.0.2][fitness-skill]
-- [Jotunn Lib 0.1.1][jotunn-lib]
+- [Fish Food 1.1.0][fish-food]
+- [Fitness Skill 1.0.3][fitness-skill]
 - [Mod Config Enforcer 1.3.0][mod-config-enforcer]
 - [Planting Plus 1.4.5][planting-plus]
 
@@ -25,6 +24,34 @@ Simply add both files to the mod's .zip, then modify the manifest.json with the 
 You can then do a simple drag'n'drop installation in r2modmanager with the .zip
 
 ## Changelog
+
+```text
+Version 2.1.0
+
+[Thunderstore]
+
+  + Added Creature Level and Loot Control 2.2.0
+  + Added Jotunn Lib 0.1.2
+
+  * Updated BepInEx
+    - 5.4.800 -> 5.4.900
+  * Updated Epic Loot
+    - 0.5.16 -> 0.6.0
+  * Updated Pathfinder
+    - 1.0.0 -> 1.0.1
+
+[NexusMods]
+
+  + Added Sleep Without Spawn 0.1.1
+
+  - Removed Jotunn Lib
+    - Replaced by Thunderstore version of mod
+
+  * Updated Fish Food
+    - 1.0.0 -> 1.1.0
+  * Updated Fitness Skill
+    - 1.0.2 -> 1.0.3
+```
 
 ```text
 Version 2.0.0
