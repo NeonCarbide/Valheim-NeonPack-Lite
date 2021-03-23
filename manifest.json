@@ -2,7 +2,7 @@
   "name": "NeonPackLite",
   "version_number": "2.2.0",
   "website_url": "https://github.com/NeonCarbide/Valheim-NeonPack-Lite",
-  "description": "The base mods required to join a world or server running NeonPack 2.1.0",
+  "description": "The base mods required to join a world or server running NeonPack 2.2.0",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.900",
     "RandyKnapp-ImprovedDvergerCirclet-1.0.1",
