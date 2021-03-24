@@ -5,6 +5,7 @@ This modpack uses the [semantic versioning](https://semver.org) convention of `M
 ## _Sorted by Most Recent_ <!-- omit in toc -->
 
 - [Version 2.x.x](#version-2xx)
+  - [2.3.0](#230)
   - [2.2.0](#220)
   - [2.1.x](#21x)
     - [2.1.1 - IMPORTANT](#211---important)
@@ -14,6 +15,20 @@ This modpack uses the [semantic versioning](https://semver.org) convention of `M
   - [1.0.0](#100)
 
 ### Version 2.x.x
+
+#### 2.3.0
+
+```text
+[Thunderstore]
+
+  * Updated Creature Level and Loot Control
+    - 2.2.0 -> 2.4.2
+
+[NexusMods]
+
+  + Added Combat Evolved 0.4.1
+  + Added Cooking Skill 1.1.3
+```
 
 #### 2.2.0
 
