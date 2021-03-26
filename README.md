@@ -1,6 +1,6 @@
 # Valheim-NeonPack Lite
 
-The base mods required to join a world or server running [NeonPack 2.2.0][neonpack]
+The base mods required to join a world or server running [NeonPack 2.4.0][neonpack]
 
 I've included a list of all the config changes I've made in the [github for the main modpack][github-extras]
 
@@ -13,7 +13,7 @@ _Required:_
 - [Cooking Skill 1.1.3][cooking-skill]
 - [Crush Antlers 0.1.0][crush-antlers]
 - [Fitness Skill 1.0.3][fitness-skill]
-- [Mod Config Enforcer 1.3.0][mod-config-enforcer]
+- [Mod Config Enforcer 1.4.1][mod-config-enforcer]
 
 I've included a template with an icon and an empty mod manifest.json in the [github for the main modpack][github-extras] to help add compatibility for NexusMods mods with r2modmanager
 
@@ -29,18 +29,22 @@ I will maintain a trimmed version of the full changelog within this README of on
 
 ### Recent Updates
 
-Version 2.3.0
+Version 2.4.0
 
 ```text
 [Thunderstore]
 
+  + Added Colorful Signs 5.4.902
+
   * Updated Creature Level and Loot Control
-    - 2.2.0 -> 2.4.2
+    - 2.4.2 -> 2.5.2
+  * Updated Pathfinder
+    - 1.0.1 -> 1.0.2
 
 [NexusMods]
 
-  + Added Combat Evolved 0.4.1
-  + Added Cooking Skill 1.1.3
+  * Updated Mod Config Enforcer
+    - 1.3.0 -> 1.4.1
 ```
 
 [changelog]: https://github.com/NeonCarbide/Valheim-NeonPack-Lite/blob/master/CHANGELOG.md
