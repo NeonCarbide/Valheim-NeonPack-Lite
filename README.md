@@ -1,6 +1,6 @@
 # Valheim-NeonPack Lite
 
-The base mods required to join a world or server running [NeonPack 2.4.0][neonpack]
+The base mods required to join a world or server running [NeonPack 2.5.0][neonpack]
 
 I've included a list of all the config changes I've made in the [github for the main modpack][github-extras]
 
@@ -14,6 +14,7 @@ _Required:_
 - [Crush Antlers 0.1.0][crush-antlers]
 - [Fitness Skill 1.0.3][fitness-skill]
 - [Mod Config Enforcer 1.4.1][mod-config-enforcer]
+- [More Skills 0.1.5][more-skills]
 
 I've included a template with an icon and an empty mod manifest.json in the [github for the main modpack][github-extras] to help add compatibility for NexusMods mods with r2modmanager
 
@@ -29,22 +30,23 @@ I will maintain a trimmed version of the full changelog within this README of on
 
 ### Recent Updates
 
-Version 2.4.0
+Version 2.5.0
 
 ```text
 [Thunderstore]
 
-  + Added Colorful Signs 5.4.902
+  + Added Beehive Utilities 1.0.1
 
+  * Updated BepInEx
+    - 5.4.900 -> 5.4.901
   * Updated Creature Level and Loot Control
-    - 2.4.2 -> 2.5.2
-  * Updated Pathfinder
-    - 1.0.1 -> 1.0.2
+    - 2.5.2 -> 3.0.0
+  * Updated Jotunn Lib
+    - 0.1.2 -> 0.1.4
 
 [NexusMods]
 
-  * Updated Mod Config Enforcer
-    - 1.3.0 -> 1.4.1
+  + Added More Skills 0.1.5
 ```
 
 [changelog]: https://github.com/NeonCarbide/Valheim-NeonPack-Lite/blob/master/CHANGELOG.md
@@ -61,3 +63,4 @@ Version 2.4.0
 [fitness-skill]: https://www.nexusmods.com/valheim/mods/388
 [gathering-skill]: https://www.nexusmods.com/valheim/mods/342
 [mod-config-enforcer]: https://www.nexusmods.com/valheim/mods/460
+[more-skills]: https://www.nexusmods.com/valheim/mods/539
