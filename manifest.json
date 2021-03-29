@@ -1,8 +1,8 @@
 {
   "name": "NeonPackLite",
-  "version_number": "2.5.0",
+  "version_number": "2.6.0",
   "website_url": "https://github.com/NeonCarbide/Valheim-NeonPack-Lite",
-  "description": "The base mods required to join a world or server running NeonPack 2.5.0",
+  "description": "The base mods required to join a world or server running NeonPack 2.6.0",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.901",
     "RandyKnapp-ImprovedDvergerCirclet-1.0.1",
@@ -30,6 +30,7 @@
     "Crystal-Pathfinder-1.0.2",
     "Smoothbrain-CreatureLevelAndLootControl-3.0.0",
     "JotunnLibTeam-JotunnLib-0.1.4",
-    "Tekla-ColorfulSigns-5.4.902"
+    "Tekla-ColorfulSigns-5.4.902",
+    "Barril-NameTamedAnimals-1.0.0"
   ]
 }
