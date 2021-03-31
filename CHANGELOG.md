@@ -1,10 +1,11 @@
-# Valheim-NeonPack Changelog <!-- omit in toc -->
+# Valheim-NeonPack Lite Changelog <!-- omit in toc -->
 
 This modpack uses the [semantic versioning](https://semver.org) convention of `MAJOR.Minor.patch`
 
 ## _Sorted by Most Recent_ <!-- omit in toc -->
 
 - [Version 2.x.x](#version-2xx)
+  - [2.7.0](#270)
   - [2.6.0](#260)
   - [2.5.0](#250)
   - [2.4.0](#240)
@@ -18,6 +19,24 @@ This modpack uses the [semantic versioning](https://semver.org) convention of `M
   - [1.0.0](#100)
 
 ### Version 2.x.x
+
+#### 2.7.0
+
+```text
+[Thunderstore]
+
+  + Added Beehive Utilities 1.0.1
+
+  * Updated Creature Level and Loot Control
+    - 3.2.0 -> 3.2.2
+
+[NexusMods]
+
+  * Updated Combat Evolved
+    - 0.4.1 -> 0.4.2
+  * Updated More Skills
+    - 0.1.54 -> 0.1.61
+```
 
 #### 2.6.0
 
