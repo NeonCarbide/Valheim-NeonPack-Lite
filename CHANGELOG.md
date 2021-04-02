@@ -5,6 +5,7 @@ This modpack uses the [semantic versioning](https://semver.org) convention of `M
 ## _Sorted by Most Recent_ <!-- omit in toc -->
 
 - [Version 2.x.x](#version-2xx)
+  - [2.8.0](#280)
   - [2.7.0](#270)
   - [2.6.0](#260)
   - [2.5.0](#250)
@@ -19,6 +20,26 @@ This modpack uses the [semantic versioning](https://semver.org) convention of `M
   - [1.0.0](#100)
 
 ### Version 2.x.x
+
+#### 2.8.0
+
+```text
+[Thunderstore]
+
+  * Updated Beehive Utilities
+    - 1.0.1 -> 1.1.0
+  * Updated Creature Level and Loot Control
+    - 3.2.2 -> 3.4.0
+  * Updated Pathfinder
+    - 1.0.2 -> 2.0.3
+
+[NexusMods]
+
+  * Updated Cooking Skill
+    - 1.1.3 -> 1.1.4
+  * Updated More Skills
+    - 0.1.61 -> 0.1.7
+```
 
 #### 2.7.0
 

@@ -1,6 +1,6 @@
 # Valheim-NeonPack Lite
 
-The base mods required to join a world or server running [NeonPack 2.7.0][neonpack]
+The base mods required to join a world or server running [NeonPack 2.8.0][neonpack]
 
 I've included a list of all the config changes I've made in the [github for the main modpack][github-extras]
 
@@ -9,11 +9,11 @@ I also use the following mods from NexusMods
 _Required:_
 
 - [Combat Evolved 0.4.2][combat-evolved]
-- [Cooking Skill 1.1.3][cooking-skill]
+- [Cooking Skill 1.1.4][cooking-skill]
 - [Crush Antlers 0.1.0][crush-antlers]
 - [Fitness Skill 1.0.3][fitness-skill]
 - [Mod Config Enforcer 1.4.1][mod-config-enforcer]
-- [More Skills 0.1.61][more-skills]
+- [More Skills 0.1.7][more-skills]
 
 I've included a template with an icon and an empty mod manifest.json in the [github for the main modpack][github-extras] to help add compatibility for NexusMods mods with r2modmanager
 
@@ -29,22 +29,24 @@ I will maintain a trimmed version of the full changelog within this README of on
 
 ### Recent Updates
 
-Version 2.7.0
+Version 2.8.0
 
 ```text
 [Thunderstore]
 
-  + Added Beehive Utilities 1.0.1
-
+  * Updated Beehive Utilities
+    - 1.0.1 -> 1.1.0
   * Updated Creature Level and Loot Control
-    - 3.2.0 -> 3.2.2
+    - 3.2.2 -> 3.4.0
+  * Updated Pathfinder
+    - 1.0.2 -> 2.0.3
 
 [NexusMods]
 
-  * Updated Combat Evolved
-    - 0.4.1 -> 0.4.2
+  * Updated Cooking Skill
+    - 1.1.3 -> 1.1.4
   * Updated More Skills
-    - 0.1.54 -> 0.1.61
+    - 0.1.61 -> 0.1.7
 ```
 
 [changelog]: https://github.com/NeonCarbide/Valheim-NeonPack-Lite/blob/master/CHANGELOG.md
