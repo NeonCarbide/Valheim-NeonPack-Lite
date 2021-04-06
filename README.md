@@ -1,6 +1,6 @@
 # Valheim-NeonPack Lite
 
-The base mods required to join a world or server running [NeonPack 2.8.0][neonpack]
+The base mods required to join a world or server running [NeonPack 2.9.0][neonpack]
 
 I've included a list of all the config changes I've made in the [github for the main modpack][github-extras]
 
@@ -8,12 +8,10 @@ I also use the following mods from NexusMods
 
 _Required:_
 
-- [Combat Evolved 0.4.2][combat-evolved]
-- [Cooking Skill 1.1.4][cooking-skill]
+- [Combat Evolved 0.4.5][combat-evolved]
 - [Crush Antlers 0.1.0][crush-antlers]
 - [Fitness Skill 1.0.3][fitness-skill]
 - [Mod Config Enforcer 1.4.1][mod-config-enforcer]
-- [More Skills 0.1.7][more-skills]
 
 I've included a template with an icon and an empty mod manifest.json in the [github for the main modpack][github-extras] to help add compatibility for NexusMods mods with r2modmanager
 
@@ -29,24 +27,28 @@ I will maintain a trimmed version of the full changelog within this README of on
 
 ### Recent Updates
 
-Version 2.8.0
+Version 2.9.0
 
 ```text
 [Thunderstore]
 
-  * Updated Beehive Utilities
-    - 1.0.1 -> 1.1.0
+  + Added More Skills 1.9.6
+
+  - Removed Skillful
+    - Similar features added by More Skills
+
   * Updated Creature Level and Loot Control
-    - 3.2.2 -> 3.4.0
-  * Updated Pathfinder
-    - 1.0.2 -> 2.0.3
+    - 3.4.0 -> 3.5.0
+  * Updated Epic Loot
+    - 0.6.3 -> 0.7.2
 
 [NexusMods]
 
-  * Updated Cooking Skill
-    - 1.1.3 -> 1.1.4
-  * Updated More Skills
-    - 0.1.61 -> 0.1.7
+  - Removed More Skills
+    - Replaced by Thunderstore version of mod
+
+  * Updated Combat Evolved
+    - 0.4.2 -> 0.4.5
 ```
 
 [changelog]: https://github.com/NeonCarbide/Valheim-NeonPack-Lite/blob/master/CHANGELOG.md
@@ -55,12 +57,7 @@ Version 2.8.0
 
 <!-- Mod Links -->
 
-[better-trader]: https://www.nexusmods.com/valheim/mods/433
 [combat-evolved]: https://www.nexusmods.com/valheim/mods/301
-[cooking-skill]: https://www.nexusmods.com/valheim/mods/483
 [crush-antlers]: https://www.nexusmods.com/valheim/mods/590
-[fish-food]: https://www.nexusmods.com/valheim/mods/531
 [fitness-skill]: https://www.nexusmods.com/valheim/mods/388
-[gathering-skill]: https://www.nexusmods.com/valheim/mods/342
 [mod-config-enforcer]: https://www.nexusmods.com/valheim/mods/460
-[more-skills]: https://www.nexusmods.com/valheim/mods/539
