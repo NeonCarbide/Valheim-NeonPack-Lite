@@ -1,6 +1,6 @@
 # Valheim-NeonPack Lite
 
-The base mods required to join a world or server running [NeonPack 2.10.1][neonpack]
+The base mods required to join a world or server running [NeonPack 2.10.2][neonpack]
 
 I've included a list of all the config changes I've made in the [github for the main modpack][github-extras]
 
@@ -27,6 +27,15 @@ Rather than continue to make this README even longer, I've seperated the changel
 I will maintain a trimmed version of the full changelog within this README of only the most recent minor update and any subsequent patches
 
 ### Recent Updates
+
+Version 2.10.2
+
+```text
+[Thunderstore]
+
+  * Updated Creature Level and Loot Control
+    - 3.5.3 -> 3.5.4
+```
 
 Version 2.10.1
 
