@@ -1,6 +1,6 @@
 # Valheim-NeonPack Lite
 
-The base mods required to join a world or server running [NeonPack 2.9.0][neonpack]
+The base mods required to join a world or server running [NeonPack 2.10.0][neonpack]
 
 I've included a list of all the config changes I've made in the [github for the main modpack][github-extras]
 
@@ -9,6 +9,7 @@ I also use the following mods from NexusMods
 _Required:_
 
 - [Combat Evolved 0.4.5][combat-evolved]
+- [Cooking Skill 1.1.5][cooking-skill]
 - [Crush Antlers 0.1.0][crush-antlers]
 - [Fitness Skill 1.0.3][fitness-skill]
 - [Mod Config Enforcer 1.4.1][mod-config-enforcer]
@@ -27,28 +28,32 @@ I will maintain a trimmed version of the full changelog within this README of on
 
 ### Recent Updates
 
-Version 2.9.0
+Version 2.10.0
 
 ```text
 [Thunderstore]
 
-  + Added More Skills 1.9.6
+  + Added Better Continents 0.6.1
+  + Added Item Drawers 0.4.0
+  + Added Skyheim 1.0.4
+  + Added Surtling Core Overclocking 1.0.1
 
-  - Removed Skillful
-    - Similar features added by More Skills
+  - Removed Comfort Calculation Tweaks
+    - Was patched in one of the 0.148.x Valheim updates and forgot to remove
+  - Removed Useful Trophies
+    - Originally added due to lack of use for trophies other than decoration
 
   * Updated Creature Level and Loot Control
-    - 3.4.0 -> 3.5.0
+    - 3.5.0 -> 3.5.2
   * Updated Epic Loot
-    - 0.6.3 -> 0.7.2
+    - 0.7.2 -> 0.7.5
+  * Updated Jotunn Lib
+    - 0.1.4 -> 0.1.6
 
 [NexusMods]
 
-  - Removed More Skills
-    - Replaced by Thunderstore version of mod
-
-  * Updated Combat Evolved
-    - 0.4.2 -> 0.4.5
+  * Updated Cooking Skill
+    - 1.1.4 -> 1.1.5
 ```
 
 [changelog]: https://github.com/NeonCarbide/Valheim-NeonPack-Lite/blob/master/CHANGELOG.md
@@ -58,6 +63,7 @@ Version 2.9.0
 <!-- Mod Links -->
 
 [combat-evolved]: https://www.nexusmods.com/valheim/mods/301
+[cooking-skill]: https://www.nexusmods.com/valheim/mods/483
 [crush-antlers]: https://www.nexusmods.com/valheim/mods/590
 [fitness-skill]: https://www.nexusmods.com/valheim/mods/388
 [mod-config-enforcer]: https://www.nexusmods.com/valheim/mods/460

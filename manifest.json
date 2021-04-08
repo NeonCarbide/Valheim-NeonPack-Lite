@@ -1,8 +1,8 @@
 {
   "name": "NeonPackLite",
-  "version_number": "2.9.0",
+  "version_number": "2.10.0",
   "website_url": "https://github.com/NeonCarbide/Valheim-NeonPack-Lite",
-  "description": "The base mods required to join a world or server running NeonPack 2.9.0",
+  "description": "The base mods required to join a world or server running NeonPack 2.10.0",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.901",
     "RandyKnapp-ImprovedDvergerCirclet-1.0.1",
@@ -11,7 +11,6 @@
     "chase000-UnfrightenTamedAnimals-0.1.0",
     "purpledxd-LocateMerchant-1.0.1",
     "robclancy-Bigger_Chests-1.0.0",
-    "Khairex-Useful_Trophies-1.1.0",
     "Xenofell-BuildHelper-0.2.0",
     "ceko-ValheimArmorstand-0.0.2",
     "abearcodes-SimpleRecycling-0.0.13",
@@ -21,17 +20,20 @@
     "1010101110-multiplayerboatdamage-0.0.1",
     "ceko-ValheimBrawler-0.0.6",
     "RandyKnapp-ExtendedItemDataFramework-1.0.0",
-    "RandyKnapp-EpicLoot-0.7.2",
-    "Smoothbrain-ComfortCalculationTweaks-1.2.2",
+    "RandyKnapp-EpicLoot-0.7.5",
     "pipakin-SkillInjector-1.1.1",
     "pipakin-GatheringSkill-2.0.3",
     "Rolo-ExploreTogether-1.3.0",
     "Crystal-Pathfinder-2.0.3",
-    "Smoothbrain-CreatureLevelAndLootControl-3.5.0",
-    "JotunnLibTeam-JotunnLib-0.1.4",
+    "Smoothbrain-CreatureLevelAndLootControl-3.5.2",
+    "JotunnLibTeam-JotunnLib-0.1.6",
     "Tekla-ColorfulSigns-5.4.902",
     "Smallo-BeehiveUtilities-1.1.0",
     "Barril-NameTamedAnimals-1.0.0",
-    "guiriguy-MoreSkills-1.9.6"
+    "guiriguy-MoreSkills-1.9.6",
+    "makail-Skyheim-1.0.4",
+    "billw2012-BetterContinents-0.6.1",
+    "MathiasDecrock-SurtlingCoreOverclocking-1.0.1",
+    "makail-ItemDrawers-0.4.0"
   ]
 }
